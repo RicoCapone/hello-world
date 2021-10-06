@@ -1,6 +1,6 @@
 # hello-world
 first repository/ 
-Hi, I'm Capric01/
+Hi, I'm RicoCapone/
 I'm interested in data journalism/
-I'm currently learning some coding with Python, applied to data scraping, managing and analyzing/
+I'm currently learning some coding with Python, applied to data managing and analyzing/
 You can reach me at rico.capone@gmail.com
